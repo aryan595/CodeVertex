@@ -47,7 +47,7 @@ while True:
                 print("Ans:",result)
                 break
             else:
-                print("Please enter any above mentioned number")
+                print("Please enter any above mentioned number:")
         else:
             print("Please enter a number")
     else:
